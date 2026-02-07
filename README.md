@@ -9,13 +9,13 @@ Commercial multi-axis CNC machines and laser cutters are:
 Very expensive
 Complex to maintain
 Not easily accessible for students, makers, and small workshops
-This project aims to bridge the gap by developing a low-cost, customizable CNC Plotter / Laser Cutter with multi-axis capability.
+This project aims to bridge the gap by developing a low-cost, customizable CNC Plotter / Laser Cutter.
 
 Innovation & Uniqueness
 
 🔹 Dual functionality: Plotting + Laser Cutting
 🔹 Modular design (tool head can be changed)
-🔹 Low-cost components compared to industrial CNC
+🔹 Low-cost components compared to entry level industrial  CNC
 🔹 Suitable for education, R&D, and startups
 
 ⚙️ Working Principle
@@ -27,7 +27,7 @@ The tool head (pen or laser module) performs:
 Drawing / plotting
 Engraving
 Cutting (laser mode)
-Precision motion is achieved using calibrated motor control and rigid mechanical structure
+Precision motion is achieved using computer numerical control and rigid mechanical structure
 
 microcontroller arduino uno r3 
 stepper motor nema 17
@@ -46,7 +46,6 @@ Small-scale manufacturing
 🚀 Future Scope
 
 Automatic tool changer
-Closed-loop motor control
 IoT-based monitoring
 Higher power laser integration
 
