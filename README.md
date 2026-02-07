@@ -13,7 +13,6 @@ This project aims to bridge the gap by developing a low-cost, customizable CNC P
 
 Innovation & Uniqueness
 
-🔹 5-Axis motion control (X, Y, Z + A, B)
 🔹 Dual functionality: Plotting + Laser Cutting
 🔹 Modular design (tool head can be changed)
 🔹 Low-cost components compared to industrial CNC
@@ -23,7 +22,7 @@ Innovation & Uniqueness
 
 A design file (G-code) is generated using CNC software.
 The controller interprets G-code commands.
-Stepper motors drive motion along X, Y, Z, A, and B axes.
+Stepper motors drive motion along X, Y.
 The tool head (pen or laser module) performs:
 Drawing / plotting
 Engraving
